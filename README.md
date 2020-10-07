@@ -1,4 +1,4 @@
-# EasyFileDownloader
+# EasyFileDownloader:
 A file downloader in kotlin
 
 # Github link:
